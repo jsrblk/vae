@@ -1,0 +1,14 @@
+torch
+pyro-ppl
+pandas
+numpy<2
+yfinance
+tqdm
+pyarrow
+scikit-learn
+requests
+beautifulsoup4
+matplotlib
+seaborn
+scipy
+
